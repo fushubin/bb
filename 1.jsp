@@ -1,0 +1,1 @@
+<!docType><html>	<head>		<title>第一个表单</title>	</head>	<body>		<form method="get" action="http://localhost:9999/login">			用户名：<input type="text" id="username" name="uname" />			密码：<input type="password" id="password" name="psw" />			<input type="submit" value="登录"/>		</form>	</body></html>
